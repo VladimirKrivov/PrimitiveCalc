@@ -1,0 +1,9 @@
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\bin\Debug\Calc.exe.config
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\bin\Debug\Calc.exe
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\bin\Debug\Calc.pdb
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\obj\Debug\Calc.csprojResolveAssemblyReference.cache
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\obj\Debug\Calc.Form1.resources
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\obj\Debug\Calc.Properties.Resources.resources
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\obj\Debug\Calc.csproj.GenerateResource.Cache
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\obj\Debug\Calc.exe
+C:\Users\ЕГАИС-2\Desktop\Calc\Calc\Calc\obj\Debug\Calc.pdb
